@@ -225,7 +225,7 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.746031746031746,
+            "x": 0.742063492063492,
             "y": 0.5753846153846154,
             "uniqueID": 489796,
             "ioValues": [
@@ -416,5 +416,5 @@
     "simplify": false,
     "unitsIndex": 0,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.001"
+    "circleSegmentSize": "0.601"
 }
